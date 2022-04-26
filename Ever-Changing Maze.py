@@ -1,3 +1,5 @@
+# This is currently a work in progress.
+
 import random
 
 def MazeCreator(rows):
